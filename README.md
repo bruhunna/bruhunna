@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything :) 
 - 📫 How to reach me ... try slack 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6770aca470129741a8d9e713?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6770aca470129741a8d9e713?variant=dark)](https://roadmap.sh)
 
 <!---
 bruhunna/bruhunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
