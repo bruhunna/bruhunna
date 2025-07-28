@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Baki
 
 I'm a Software Engineer passionate about building scalable, reliable, and user-friendly full-stack applications.
 
@@ -32,4 +32,4 @@ I'm a Software Engineer passionate about building scalable, reliable, and user-f
 
 ---
 
-> 🧠 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> 🌟 “Strive not to be a success, but rather to be of value.” – Albert Einstein
