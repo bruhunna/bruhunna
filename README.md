@@ -1,10 +1,35 @@
-- 👋 Hi, I’m Baki @bruhunna 
-- 👀 I’m interested in Fullstack Web Development, Front End Testing, Test Automation...
-- 🌱 I’m currently working with #React(Nextjs) #Typescript #ASP.NET Core
-- 💞️ I’m looking to collaborate on anything :) 
-- 📫 How to reach me ... try ruhunnabi@gmail.com 
+# 👋 Hi, I'm [Your Name]
 
-<!---
-bruhunna/bruhunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer passionate about building scalable, reliable, and user-friendly full-stack applications.
+
+🚗 Currently working on a Fleet and Business Online Portal for Wholesale Customers with real-time connected car data.
+
+---
+
+### 💻 Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** C#.NET Core, REST APIs
+- **Database:** Azure Cosmos DB, SQL
+- **DevOps:** Azure Pipelines, GitHub Actions, Docker
+- **Testing:** Playwright, xUnit, NUnit
+- **Cloud:** Microsoft Azure
+
+---
+
+### 🔧 What I Do
+
+- Build full-stack solutions powerd with vehicle data and analytics
+- Automate testing and deployments to ensure product quality and fast delivery
+- Write clean, testable, maintainable code — and help others do the same
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/ruhunnabi)
+- [Email](mailto:ruhunnabi@gmail.com)
+
+---
+
+> 🧠 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
